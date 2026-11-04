@@ -1,5 +1,5 @@
 # Pengantar-Pemograman-Semester7-
-#Jawaban Tugas UTS Bagian A,B, Dan C
+Jawaban Tugas UTS Bagian A,B, Dan C
 Nama           : Muhammad Tafzil Rimzal
 Nim            : 312310529
 Kelas          : I231B
