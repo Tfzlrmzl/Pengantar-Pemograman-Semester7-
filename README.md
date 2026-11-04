@@ -1,7 +1,14 @@
 # Pengantar-Pemograman-Semester7-
 #Jawaban Tugas UTS Bagian A,B, Dan C
+Nama           : Muhammad Tafzil Rimzal
+Nim            : 312310529
+Kelas          : I231B
+Jurusan        : Teknik Informatika
+Dosen Pengampu : Wahyu Hadikristanto, S.Kom., M.Kom.
+Mata Kuliah    : Pengantar Pemograman
+Semester       : 7
 
-A. Jawaban Pilihan Ganda
+*A. Jawaban Pilihan Ganda*
 No.	Jawaban	Keterangan
 1	B	Urutan langkah logis untuk menyelesaikan masalah
 2	C	High Level Language
@@ -13,7 +20,8 @@ No.	Jawaban	Keterangan
 8	C	for
 9	B	Menginput data
 10	B	1
-B. Jawaban Essay
+
+*B. Jawaban Essay*
 1. Jelaskan pengertian algoritma dan pemrograman serta berikan satu contoh penerapannya dalam kehidupan sehari-hari!
 Algoritma adalah urutan langkah-langkah logis dan sistematis untuk menyelesaikan suatu masalah.
 Pemrograman adalah proses membuat instruksi menggunakan bahasa pemrograman agar komputer dapat menjalankan tugas tertentu.
@@ -81,3 +89,5 @@ do {
     i++;
 } while (i <= 5);
 
+*C. PRAKTIK PEMROGRAMAN JAVA*
+Dokumen & File Ada Di Atas (Pengantar Pemograman (Semester 7)
