@@ -10,16 +10,16 @@ Semester       : 7
 
 *A. Jawaban Pilihan Ganda*
 No.	Jawaban	Keterangan
-1	B	Urutan langkah logis untuk menyelesaikan masalah
-2	C	High Level Language
-3	C	System.out.println()
-4	D	Integer
-5	C	Sequential
-6	B	if-else
-7	C	==
-8	C	for
-9	B	Menginput data
-10	B	1
+1. B	Urutan langkah logis untuk menyelesaikan masalah
+2. C	High Level Language
+3. C	System.out.println()
+4. D	Integer
+5. C	Sequential
+6. B	if-else
+7. C	==
+8. C	for
+9. B	Menginput data
+10. B	1
 
 *B. Jawaban Essay*
 1. Jelaskan pengertian algoritma dan pemrograman serta berikan satu contoh penerapannya dalam kehidupan sehari-hari!
