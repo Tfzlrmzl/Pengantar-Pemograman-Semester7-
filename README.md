@@ -2,7 +2,7 @@
 Jawaban Tugas UTS Bagian A,B, Dan C
 Nama           : Muhammad Tafzil Rimzal
 Nim            : 312310529
-Kelas          : I231B
+Kelas          : I261B
 Jurusan        : Teknik Informatika
 Dosen Pengampu : Wahyu Hadikristanto, S.Kom., M.Kom.
 Mata Kuliah    : Pengantar Pemograman
