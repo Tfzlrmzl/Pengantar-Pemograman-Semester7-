@@ -89,5 +89,9 @@ do {
     i++;
 } while (i <= 5);
 
-*C. PRAKTIK PEMROGRAMAN JAVA*
+*File Bagian C. PRAKTIK PEMROGRAMAN JAVA*
 Dokumen & File Ada Di Atas (Pengantar Pemograman (Semester 7)
+Pencet Dokumen (Pengantar Pemograman (Semester 7)
+Pencet Dokumen Praktik_Java_Bagian_C
+Pencet Dokumen Build/classes/uts/pengantarpemograman
+Selesai
